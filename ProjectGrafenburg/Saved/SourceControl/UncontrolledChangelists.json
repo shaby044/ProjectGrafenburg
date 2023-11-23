@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/StartingLevel.umap"
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/StartingLevel.umap",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Levels/StartingLevel.umap",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/PlayerController.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/BP_PlayerController.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/GameMode_1.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/BP_PlayerCharacter.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Backend/GameMode_1.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Textures/FloorsCheckerboard0025_1_350.uasset",
+				"F:/Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Textures/FloorsCheckerboard0025_1_350_Mat.uasset"
 			]
 		}
 	]
