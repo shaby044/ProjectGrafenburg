@@ -2252,3 +2252,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.25-02.56.20:262][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 788 ms)
 [2023.11.25-02.56.20:264][463]AssetCheck: New page: Asset Save: StartingLevel
 [2023.11.25-02.56.20:264][463]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/StartingLevel.StartingLevel
+[2023.11.25-03.02.01:859][531]LogViewport: Scene viewport resized to 1270x729, mode Windowed.
+[2023.11.25-03.02.02:234][531]LogViewport: Scene viewport resized to 2739x1205, mode Windowed.
+[2023.11.25-03.02.36:524][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.25-03.02.36:529][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.25-03.02.36:566][617]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerCharacter
+[2023.11.25-03.02.36:567][617]LogSavePackage: Moving '../../../../Bois Project/ProjectGrafenburg/ProjectGrafenburg/Saved/BP_PlayerCharacter6DDF0DDE4324B1324E17658B432E64F9.tmp' to '../../../../Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2023.11.25-03.02.37:012][617]LogSavePackage: Moving output files for package: /Game/Textures/rough-white-cement-plastered-wall-texture
+[2023.11.25-03.02.37:012][617]LogSavePackage: Moving '../../../../Bois Project/ProjectGrafenburg/ProjectGrafenburg/Saved/rough-white-cement-plastered-walD2AB248D49BCD246DB436DA679764203.tmp' to '../../../../Bois Project/ProjectGrafenburg/ProjectGrafenburg/Content/Textures/rough-white-cement-plastered-wall-texture.uasset'
+[2023.11.25-03.02.37:024][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 494 ms (total: 1.28 sec)
+[2023.11.25-03.02.37:027][617]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.25-03.02.37:027][617]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2023.11.25-03.02.37:027][617]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/rough-white-cement-plastered-wall-texture.rough-white-cement-plastered-wall-texture
+[2023.11.25-03.02.52:376][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
